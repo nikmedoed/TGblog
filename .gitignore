@@ -155,3 +155,7 @@ tg_invite_to_channel/anon.session
 tg_invite_to_channel/inviteok.xlsx
 tg_invite_to_channel/log_notificated.txt
 vk_config.v2.json
+.idea
+vk_collect_bdays/friends.xlsx
+vk_collect_bdays/base.xlsx
+vk_collect_bdays/base.txt

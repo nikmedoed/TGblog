@@ -10,6 +10,7 @@
 # Проекты в репозитории
 - [`tg_invite_to_channel`](/tg_invite_to_channel) – скрипты для приглашения своих контактов в канал
 - [`vk_collect_bdays`](/vk_collect_bdays) – сборщик дат рождения ваших друзей ВКонтакте
+- [`vk_online_monitoring`](/vk_online_monitoring) –  мониторинг онлайна подписчиков вконтакте
 
 
 # Подробнее о проекте
