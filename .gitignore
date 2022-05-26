@@ -159,3 +159,6 @@ vk_config.v2.json
 vk_collect_bdays/friends.xlsx
 vk_collect_bdays/base.xlsx
 vk_collect_bdays/base.txt
+vk_online_monitoring/vk_online_monitoring_dev.ipynb
+vk_online_monitoring/unique_online_group_log.csv
+vk_online_monitoring/unique_online_log.csv
