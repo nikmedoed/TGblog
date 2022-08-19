@@ -163,3 +163,5 @@ vk_online_monitoring/vk_online_monitoring_dev.ipynb
 vk_online_monitoring/unique_online_group_log.csv
 vk_online_monitoring/unique_online_log.csv
 vk_online_monitoring/img/
+tg_grab_posts/chat_grabber.py
+tg_grab_posts/anon.session
